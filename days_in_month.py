@@ -1,4 +1,4 @@
-import stdin
+#import stdin
 
 month=input("enter the name of the month : ")
 
